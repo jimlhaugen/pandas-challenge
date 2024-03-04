@@ -2,6 +2,18 @@
 
 ## PyCity Schools Analysis
 
+See below.
+
+
+## Code Source and Its Location
+
+The development of the code and script in this Challenge was performed by me personally; I did not work or collaborate with a peer.  Ouutside of the curriculum, I did not receive content from support staff such as an Instructor, TA, tutor, or Learning Assistant.  
+
+I did routinely, regularly, and consistently perform internet research using Bing and interacted quite frequently with Microsoft’s AI Copilot, Stack Overflow, and other sites responsive to my queries.  Besides course instruction, the internet has provided me with an invaluable resource for learning to code including this week’s challenge directed towards Pandas.  These websites provide a plethora of examples of code and explanations resulting from my search queries.  While I may have copied and pasted code into the script, I believe that I modified or amended the code so that it was specifically tailored to the Challenge.  On one or two occasions, I sought assistance from classmates in Slack and was provide example code or an explanation of the issues arising from my code. 
+
+
+## PyCity Schools Analysis
+
 Due to interference related to formatting issues of the narrative as presented at the top of the PyCitySchools_starter file, the visual presentation of this PyCity Schools Analysis is poor.  As such, it is presented here.
 
 The School District is comprised of 39,170 students attending 15 schools of which 8 are charter schools and 7 are district schools.  Math and reading scores for each of the students were provided and analyzed.  Overall, more students passed reading than math.  When considered together, approximately 65% of the total number of students received passing scores for both math and reading (at least 70%); in other words, an approximate 35% fail to pass both math and reading.
@@ -17,42 +29,3 @@ An analysis of average scores per school spending indicates a clear inverse prop
 Given these metrics, it may be concluded that (1) charter schools outperform district schools when measured by math scores, reading scores, and a combined math and reading scores, and (2) the amount of spending per student does not reflect a better result in better math, reading, and a combined math and reading scores. 
 
 It should be noted that the preceding conclusions are based on a very minimal amount of metrics.  The ability to attend charter schools could be determined as a function of a family’s ability to pay tuition.  Measurements inclusive of a family’s income level for each student as well as the addresses and zip codes of the student’s home could indicate neighborhoods that could be characterized as low-, middle-, a high-income neighborhoods which could indicate an ability to pay tuition.   
-
-
-## Add your files
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
-
-```
-cd existing_repo
-git remote add origin https://git.bootcampcontent.com/University-of-California---Berkeley/UCB-VIRT-DATA-PT-01-2024-U-LOLC.git
-git branch -M main
-git push -uf origin main
-```
-
-## Integrate with your tools
-
-- [ ] [Set up project integrations](https://git.bootcampcontent.com/University-of-California---Berkeley/UCB-VIRT-DATA-PT-01-2024-U-LOLC/-/settings/integrations)
-
-## Collaborate with your team
-
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
-
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-
-***
-
-# Editing this README
