@@ -7,7 +7,7 @@ See below.
 
 ## Code Source and Its Location
 
-The development of the code and script in this Challenge was performed by me personally; I did not work or collaborate with a peer.  Ouutside of the curriculum, I did not receive content from support staff such as an Instructor, TA, tutor, or Learning Assistant.  
+The development of the code and script in this Challenge was performed by me personally; I did not work or collaborate with a peer.  Outside of the curriculum, I did not receive content from support staff such as an Instructor, TA, tutor, or Learning Assistant.  
 
 I did routinely, regularly, and consistently perform internet research using Bing and interacted quite frequently with Microsoft’s AI Copilot, Stack Overflow, and other sites responsive to my queries.  Besides course instruction, the internet has provided me with an invaluable resource for learning to code including this week’s challenge directed towards Pandas.  These websites provide a plethora of examples of code and explanations resulting from my search queries.  While I may have copied and pasted code into the script, I believe that I modified or amended the code so that it was specifically tailored to the Challenge.  On one or two occasions, I sought assistance from classmates in Slack and was provide example code or an explanation of the issues arising from my code. 
 
